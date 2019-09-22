@@ -18,3 +18,32 @@ Especially I liked the experience of working with children in creating robots. U
 *	programming languages: JavaScript, TypeScript
 *	framework: Angular
 *	IDE: Visual Studio Code
+
+## 4 Code examples (LATEST) ##
+
+```
+    <header>
+      <h1>Navigational Links</h1>
+      <nav>
+        <ul>
+          <li><a >Home</a></li>
+          <li><a>Posts</a></li>
+          <li><a >Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+```
+
+## 5 Experience ##
+
+-	Cours «RS JavaScript/Front-end» 
+-	Codecademy [link to source code](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/review?action=resume_content_item)
+
+## 6 Education ##
+
+*	Belarusian National Technical University [2005-2010] 
+*	ITVDN
+
+## 7 English ##
+
+English level: Pre-intermediate.
